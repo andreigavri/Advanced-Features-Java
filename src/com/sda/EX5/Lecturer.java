@@ -22,6 +22,7 @@ public class Lecturer extends Person {
         this.specialization = specialization;
     }
 
+
     public void setSalary(double salary) {
         this.salary = salary;
     }
